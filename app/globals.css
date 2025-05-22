@@ -1,5 +1,5 @@
 @import "tailwindcss";
 body {
-  padding-left: 2rem; /* Equivalent to px-8 in Tailwind */
-  padding-right: 2rem; /* Equivalent to px-8 in Tailwind */
+  margin: 30px;
+  padding: 0;
 }
